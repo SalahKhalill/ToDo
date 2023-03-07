@@ -3,6 +3,8 @@ let submit = document.querySelector(".add")
 let tasksDiv = document.querySelector(".tasks")
 
 
+
+ 
 // Empty Array To Store The Tasks
 let arrayOfTasks = [];
 
